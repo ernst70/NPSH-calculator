@@ -1,0 +1,3 @@
+Cavitation is a phenomenon that occurs in pumps when a decrease in pressure causes bubbles to form in the liquid. This can lead to damage to the equipment, decrease in performance and noise, and even cause the pump to fail. To prevent cavitation, engineers use the term NPSH to calculate the suction pressure required and use methods such as increasing suction pressure or reducing flow rate. It's important to keep an eye on the noise levels and vibration of the pump to avoid wear and tear.
+
+
